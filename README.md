@@ -1,16 +1,21 @@
-# my_flutter_ui_app
+# Flutter UI Assignment – Simple Welcome & Login Screen App 🚀
 
-A new Flutter project.
+This Flutter project is part of a UI development assignment. It includes a **landing screen** with a welcome message, styled container, interactive button, and a remote image, as well as a **login screen** with input fields and action buttons. The goal is to demonstrate layout structuring, interactivity, and UI design in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ AppBar with a title
+- ✅ Styled welcome message inside a `Container`
+- ✅ `ElevatedButton` that prints a message to the console
+- ✅ `Image` widget that loads from the internet
+- ✅ Navigation to a login screen
+- ✅ Login screen with:
+  - Username and password `TextField` inputs
+  - Side-by-side login and register buttons
+- ✅ Clean UI layout using `Column`, `Row`, and padding
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
